@@ -1,4 +1,4 @@
-# Smart Logistics API 🚚
+# Smart Logistics API 
 
 A personal learning project to explore Java, Spring Boot, and Oracle Database by building a simple logistics management backend.
 
